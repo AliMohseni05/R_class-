@@ -28,7 +28,7 @@ REP=as.factor(datak$rep)
 LINE=as.factor(datak$G)
 #-----------------------------------------------
 hist(Y2, col="gold")
-boxplot(Brix~Loc, xlab="Location", ylab="Degrees Brix", main="Degrees Brix by Location", col="pink")
+boxplot(Y2~LOC, xlab="Location", ylab="Degrees Brix", main="Degrees Brix by Location", col="pink")
 
 ## BLUPS
 # fit the model
