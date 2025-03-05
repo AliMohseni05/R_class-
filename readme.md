@@ -8,7 +8,7 @@ this repository is my R class note
 
 ## reggretion 
 
-## experiment diseine 
+## experiment diseine (anova in R)
 
 ## blups 
 
